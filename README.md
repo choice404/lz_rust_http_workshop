@@ -26,8 +26,9 @@
 
 **Windows**
 
-go to the [rust website](https://forge.rust-lang.org/infra/other-installation-methods.html)
-download and run [rustup-init.exe](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
+Go to the [rust website](https://forge.rust-lang.org/infra/other-installation-methods.html)
+
+Download and run [rustup-init.exe](https://static.rust-lang.org/rustup/dist/i686-pc-windows-gnu/rustup-init.exe)
 
 ### Create your cargo project
 
@@ -572,4 +573,3 @@ cargo run
 ```
 
 Copyright &copy; 2025 Austin Choi
-
